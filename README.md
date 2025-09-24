@@ -1,3 +1,4 @@
+![logo](banner.jpeg)
 <h1 align="center">Hi 👋, I'm Rampal Kumar</h1>
 <h3 align="center">i am data Science & Analytics</h3>
 <img align="right" alt="data" width="400" src=https://miro.medium.com/0*TMvhLMMOy0NHzNIy.gif>
